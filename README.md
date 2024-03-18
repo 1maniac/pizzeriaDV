@@ -1,2 +1,2 @@
 # pizzeriaDV
-Ten plik należy do gałęzi main
+To jest strona naszej pizzerii.
