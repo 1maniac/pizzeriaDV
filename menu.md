@@ -47,7 +47,7 @@
 
 ## Napoje
 
-<img src = "img/lemon-906141_1280.jpg" width = 300>
+<img src = "img/lemonade-7014122_1280.jpg" width = 300>
 
 | Lp. | Napój | pojemność: | 250 ml | 500 ml |
 |-|-|-|-|-|
