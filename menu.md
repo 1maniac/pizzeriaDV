@@ -69,6 +69,8 @@
 
 ## Dodatki
 
+<img src = "img/pexels-roman-odintsov-5836766.jpg" width = 300>
+
 1. Cukinia - 5 zł
 2. Karczochy - 6 zł
 3. Krewetki - 10 zł
