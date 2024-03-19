@@ -67,6 +67,12 @@
 2. Pomidorowy - 5 zł
 3. Barbeque - 6 zł
 
+## Dodatki
+
+1. Cukinia - 5 zł
+2. Karczochy - 6 zł
+3. Krewetki - 10 zł
+
 ## Napoje
 
 <img src = "img/lemonade-7014122_1280.jpg" width = 300>
